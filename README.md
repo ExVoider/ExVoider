@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hello, I'm ExVoider
 
-<!--
-**ExVoider/ExVoider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity enthusiast | Linux user | Tool builder
 
-Here are some ideas to get you started:
+I enjoy exploring systems, learning how networks work, and understanding how security tools operate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technologies & Languages
+
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go)
+![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Ruby](https://img.shields.io/badge/Ruby-red?logo=ruby)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash)
+
+---
+
+## 🔍 Interests
+
+- Networking
+- Linux internals
+- Security tooling
+- System exploration
+- Automation
+
+---
+
+## 📚 Currently Learning
+
+- Reverse engineering
+- Binary analysis
+- Security research techniques
+- Secure software design
+
+---
+
+## ⚡ Fun Fact
+
+I like understanding how systems work beneath the surface.
