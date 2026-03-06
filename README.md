@@ -1,6 +1,6 @@
 # 👋 Hello, I'm ExVoider
 
-Cybersecurity enthusiast | Linux user | Tool builder
+Cybersecurity enthusiast
 
 I enjoy exploring systems, learning how networks work, and understanding how security tools operate.
 
