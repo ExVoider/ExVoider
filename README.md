@@ -8,15 +8,15 @@ I enjoy exploring systems, learning how networks work, and understanding how sec
 
 ## 🛠 Technologies & Languages
 
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go)
-![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![Ruby](https://img.shields.io/badge/Ruby-red?logo=ruby)
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
