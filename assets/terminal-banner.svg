@@ -50,10 +50,10 @@
   <text x="662" y="168" fill="#F8FAFC" font-family="monospace" font-size="18">JavaScript  Zig  Linux</text>
 
   <text x="662" y="200" fill="#22C55E" font-family="monospace" font-size="20" filter="url(#glowGreen2)">$ featured</text>
-  <text x="662" y="225" fill="#60A5FA" font-family="monospace" font-size="18" filter="url(#glowBlue2)">safexec</text>
-  <text x="662" y="247" fill="#60A5FA" font-family="monospace" font-size="18" filter="url(#glowBlue2)">repo-analyzer</text>
-  <text x="662" y="272" fill="#60A5FA" font-family="monospace" font-size="18" filter="url(#glowBlue2)">httpfinger</text>
-  <text x="662" y="296" fill="#60A5FA" font-family="monospace" font-size="18" filter="url(#glowBlue2)">certpeek</text>
+  <text x="662" y="224" fill="#60A5FA" font-family="monospace" font-size="18" filter="url(#glowBlue2)">safexec</text>
+  <text x="662" y="246" fill="#60A5FA" font-family="monospace" font-size="18" filter="url(#glowBlue2)">repo-analyzer</text>
+  <text x="662" y="271" fill="#60A5FA" font-family="monospace" font-size="18" filter="url(#glowBlue2)">httpfinger</text>
+  <text x="662" y="295" fill="#60A5FA" font-family="monospace" font-size="18" filter="url(#glowBlue2)">certpeek</text>
 
   <text x="662" y="322" fill="#22C55E" font-family="monospace" font-size="20" filter="url(#glowGreen2)">$ status</text>
   <text x="662" y="342" fill="#E2E8F0" font-family="monospace" font-size="17">building tools, one repo at a time</text>
