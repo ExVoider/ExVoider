@@ -19,6 +19,8 @@ I enjoy exploring systems, learning how networks work, and understanding how sec
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
+![stats](https://github-readme-stats.vercel.app/api?username=ExVoider&show_icons=true&theme=tokyonight)
+
 
 ## 🔍 Interests
 
