@@ -5,37 +5,13 @@
 <br>
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ExVoider&label=Profile%20Views&color=0f172a&style=flat" alt="profile views" />
-
+  <img src="https://komarev.com/ghpvc/?username=ExVoider&label=Profile%20Views&color=0f172a&style=flat" alt="profile views" />
 </div>
 
 <h3 align="center">Security Tool Developer • CLI Builder • Networking Enthusiast</h3>
 
 <p align="center">
   I build small but practical tools around security, networking, system behavior, and command-line workflows.
-</p>
-
----
-
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/ExVoider/safexec">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ExVoider&repo=safexec&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ExVoider/repo-analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ExVoider&repo=repo-analyzer&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ExVoider/httpfinger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ExVoider&repo=httpfinger&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ExVoider/certpeek">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ExVoider&repo=certpeek&theme=tokyonight&hide_border=true" />
-  </a>
 </p>
 
 ---
@@ -53,19 +29,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ExVoider&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExVoider&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ExVoider&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## Current Focus
 
 - security tooling
@@ -73,6 +36,28 @@
 - CLI utilities
 - system behavior
 - sandboxing experiments
+
+---
+
+## Featured Work
+
+- **safexec** — v1 command execution sandbox in Zig
+- **repo-analyzer** — codebase analysis with GitHub URL support
+- **httpfinger** — Ruby CLI for HTTP fingerprinting
+- **certpeek** — TLS certificate inspection CLI
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ExVoider&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExVoider&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ExVoider&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
