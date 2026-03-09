@@ -1,0 +1,22 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="360" rx="20" fill="#0B1220"/>
+  <rect x="24" y="24" width="1152" height="312" rx="16" fill="#111827" stroke="#1F2937"/>
+
+  <circle cx="58" cy="50" r="8" fill="#EF4444"/>
+  <circle cx="84" cy="50" r="8" fill="#F59E0B"/>
+  <circle cx="110" cy="50" r="8" fill="#10B981"/>
+
+  <text x="140" y="55" fill="#9CA3AF" font-family="monospace" font-size="18">ExVoider@github: ~/profile</text>
+
+  <text x="50" y="95" fill="#22C55E" font-family="monospace" font-size="22">$ whoami</text>
+  <text x="50" y="125" fill="#E5E7EB" font-family="monospace" font-size="22">ExVoider</text>
+
+  <text x="50" y="165" fill="#22C55E" font-family="monospace" font-size="22">$ focus</text>
+  <text x="50" y="195" fill="#E5E7EB" font-family="monospace" font-size="22">security tooling • networking • cli utilities</text>
+
+  <text x="50" y="235" fill="#22C55E" font-family="monospace" font-size="22">$ langs</text>
+  <text x="50" y="265" fill="#E5E7EB" font-family="monospace" font-size="22">Python  Rust  Ruby  JavaScript  Zig</text>
+
+  <text x="50" y="305" fill="#22C55E" font-family="monospace" font-size="22">$ featured</text>
+  <text x="50" y="335" fill="#60A5FA" font-family="monospace" font-size="22">safexec   repo-analyzer   httpfinger   certpeek</text>
+</svg>
