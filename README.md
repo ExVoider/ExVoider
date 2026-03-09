@@ -1,46 +1,88 @@
-# 👋 Hello, I'm ExVoider
+<div align="center">
+  <img src="./assets/terminal-banner.svg" alt="ExVoider terminal banner" width="900" />
+</div>
 
-Cybersecurity enthusiast
+<br>
 
-I enjoy exploring systems, learning how networks work, and understanding how security tools operate.
+<div align="center">
 
----
+<img src="https://komarev.com/ghpvc/?username=ExVoider&label=Profile%20Views&color=0f172a&style=flat" alt="profile views" />
 
-## 🛠 Technologies & Languages
+</div>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<h3 align="center">Security Tool Developer • CLI Builder • Networking Enthusiast</h3>
 
----
-![stats](https://github-readme-stats.vercel.app/api?username=ExVoider&show_icons=true&theme=tokyonight)
-
-
-## 🔍 Interests
-
-- Networking
-- Linux internals
-- Security tooling
-- System exploration
-- Automation
+<p align="center">
+  I build small but practical tools around security, networking, system behavior, and command-line workflows.
+</p>
 
 ---
 
-## 📚 Currently Learning
+## Featured Projects
 
-- Reverse engineering
-- Binary analysis
-- Security research techniques
-- Secure software design
+<p align="center">
+  <a href="https://github.com/ExVoider/safexec">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ExVoider&repo=safexec&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ExVoider/repo-analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ExVoider&repo=repo-analyzer&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ExVoider/httpfinger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ExVoider&repo=httpfinger&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ExVoider/certpeek">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ExVoider&repo=certpeek&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## Stack
 
-I like understanding how systems work beneath the surface.
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-1d4ed8?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f59e0b?style=for-the-badge&logo=javascript&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Ruby-be123c?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-0f172a?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zig-f59e0b?style=for-the-badge&logo=zig&logoColor=111827" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ExVoider&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExVoider&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ExVoider&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Current Focus
+
+- security tooling
+- network protocols
+- CLI utilities
+- system behavior
+- sandboxing experiments
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/ExVoider">
+    <img src="https://img.shields.io/badge/GitHub-ExVoider-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://t.me/xmsgxo">
+    <img src="https://img.shields.io/badge/Telegram-Contact-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
