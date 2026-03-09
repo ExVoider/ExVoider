@@ -1,60 +1,60 @@
 <svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="400" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#050816"/>
-      <stop offset="1" stop-color="#0B1220"/>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1200" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#04070F"/>
+      <stop offset="1" stop-color="#0A0F1F"/>
     </linearGradient>
-    <filter id="glowGreen" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="1.8" result="coloredBlur"/>
+    <filter id="glowGreen2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.4" result="blur"/>
       <feMerge>
-        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <filter id="glowBlue" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="1.6" result="coloredBlur"/>
+    <filter id="glowBlue2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.4" result="blur"/>
       <feMerge>
-        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
   </defs>
 
-  <rect width="1200" height="400" rx="18" fill="url(#bg)"/>
-  <rect x="24" y="24" width="1152" height="352" rx="14" fill="#0A1020" stroke="#1E293B" stroke-width="2"/>
+  <rect width="1200" height="400" rx="18" fill="url(#bg2)"/>
+  <rect x="24" y="24" width="1152" height="352" rx="14" fill="#07101F" stroke="#1E293B" stroke-width="2"/>
 
-  <circle cx="58" cy="50" r="7" fill="#EF4444"/>
-  <circle cx="82" cy="50" r="7" fill="#F59E0B"/>
-  <circle cx="106" cy="50" r="7" fill="#22C55E"/>
+  <circle cx="58" cy="50" r="7" fill="#DC2626"/>
+  <circle cx="82" cy="50" r="7" fill="#D97706"/>
+  <circle cx="106" cy="50" r="7" fill="#16A34A"/>
 
-  <text x="132" y="56" fill="#94A3B8" font-family="monospace" font-size="17">ExVoider@github: ~/profile</text>
+  <text x="132" y="56" fill="#94A3B8" font-family="monospace" font-size="17">root@operator: ~/workspace/profile</text>
 
-  <rect x="44" y="78" width="1112" height="270" rx="10" fill="#07101F" stroke="#233047"/>
+  <rect x="46" y="82" width="1108" height="270" rx="10" fill="#050B17" stroke="#1F2A44"/>
 
-  <!-- Left column -->
-  <text x="68" y="116" fill="#22C55E" font-family="monospace" font-size="20" filter="url(#glowGreen)">$ whoami</text>
-  <text x="68" y="142" fill="#E2E8F0" font-family="monospace" font-size="20">ExVoider</text>
+  <!-- Left -->
+  <text x="70" y="118" fill="#22C55E" font-family="monospace" font-size="20" filter="url(#glowGreen2)">$ whoami</text>
+  <text x="70" y="144" fill="#E2E8F0" font-family="monospace" font-size="20">ExVoider</text>
 
-  <text x="68" y="178" fill="#22C55E" font-family="monospace" font-size="20" filter="url(#glowGreen)">$ role</text>
-  <text x="68" y="204" fill="#93C5FD" font-family="monospace" font-size="19" filter="url(#glowBlue)">Security Tool Developer</text>
-  <text x="68" y="228" fill="#93C5FD" font-family="monospace" font-size="19" filter="url(#glowBlue)">CLI Builder</text>
+  <text x="70" y="180" fill="#22C55E" font-family="monospace" font-size="20" filter="url(#glowGreen2)">$ role</text>
+  <text x="70" y="206" fill="#7DD3FC" font-family="monospace" font-size="19" filter="url(#glowBlue2)">Security Tool Developer</text>
+  <text x="70" y="230" fill="#7DD3FC" font-family="monospace" font-size="19" filter="url(#glowBlue2)">CLI Builder</text>
 
-  <text x="68" y="266" fill="#22C55E" font-family="monospace" font-size="20" filter="url(#glowGreen)">$ focus</text>
-  <text x="68" y="292" fill="#E2E8F0" font-family="monospace" font-size="18">network protocols</text>
-  <text x="68" y="316" fill="#E2E8F0" font-family="monospace" font-size="18">system behavior</text>
-  <text x="68" y="340" fill="#E2E8F0" font-family="monospace" font-size="18">practical tooling</text>
+  <text x="70" y="266" fill="#22C55E" font-family="monospace" font-size="20" filter="url(#glowGreen2)">$ focus</text>
+  <text x="70" y="292" fill="#E2E8F0" font-family="monospace" font-size="18">network protocols</text>
+  <text x="70" y="316" fill="#E2E8F0" font-family="monospace" font-size="18">system behavior</text>
+  <text x="70" y="340" fill="#E2E8F0" font-family="monospace" font-size="18">practical tooling</text>
 
-  <!-- Right column -->
-  <text x="650" y="116" fill="#22C55E" font-family="monospace" font-size="20" filter="url(#glowGreen)">$ stack</text>
-  <text x="650" y="142" fill="#F8FAFC" font-family="monospace" font-size="18">Python  Rust  Ruby</text>
-  <text x="650" y="166" fill="#F8FAFC" font-family="monospace" font-size="18">JavaScript  Zig  Linux</text>
+  <!-- Right -->
+  <text x="662" y="118" fill="#22C55E" font-family="monospace" font-size="20" filter="url(#glowGreen2)">$ stack</text>
+  <text x="662" y="144" fill="#F8FAFC" font-family="monospace" font-size="18">Python  Rust  Ruby</text>
+  <text x="662" y="168" fill="#F8FAFC" font-family="monospace" font-size="18">JavaScript  Zig  Linux</text>
 
-  <text x="650" y="204" fill="#22C55E" font-family="monospace" font-size="20" filter="url(#glowGreen)">$ featured</text>
-  <text x="650" y="230" fill="#60A5FA" font-family="monospace" font-size="18" filter="url(#glowBlue)">safexec</text>
-  <text x="650" y="254" fill="#60A5FA" font-family="monospace" font-size="18" filter="url(#glowBlue)">repo-analyzer</text>
-  <text x="650" y="278" fill="#60A5FA" font-family="monospace" font-size="18" filter="url(#glowBlue)">httpfinger</text>
-  <text x="650" y="302" fill="#60A5FA" font-family="monospace" font-size="18" filter="url(#glowBlue)">certpeek</text>
+  <text x="662" y="200" fill="#22C55E" font-family="monospace" font-size="20" filter="url(#glowGreen2)">$ featured</text>
+  <text x="662" y="225" fill="#60A5FA" font-family="monospace" font-size="18" filter="url(#glowBlue2)">safexec</text>
+  <text x="662" y="247" fill="#60A5FA" font-family="monospace" font-size="18" filter="url(#glowBlue2)">repo-analyzer</text>
+  <text x="662" y="272" fill="#60A5FA" font-family="monospace" font-size="18" filter="url(#glowBlue2)">httpfinger</text>
+  <text x="662" y="296" fill="#60A5FA" font-family="monospace" font-size="18" filter="url(#glowBlue2)">certpeek</text>
 
-  <text x="650" y="340" fill="#22C55E" font-family="monospace" font-size="20" filter="url(#glowGreen)">$ status</text>
-  <text x="650" y="366" fill="#E2E8F0" font-family="monospace" font-size="17">building tools, one repo at a time</text>
+  <text x="662" y="322" fill="#22C55E" font-family="monospace" font-size="20" filter="url(#glowGreen2)">$ status</text>
+  <text x="662" y="342" fill="#E2E8F0" font-family="monospace" font-size="17">building tools, one repo at a time</text>
 </svg>
