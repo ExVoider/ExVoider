@@ -51,23 +51,31 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ExVoider&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExVoider&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ExVoider&theme=merko&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ExVoider&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ExVoider&theme=dark&hide_border=true&ring=F59E0B&fire=DC2626&currStreakNum=FACC15&sideNums=F59E0B&dates=E5E7EB" />
 </p>
 
 ---
-
 ## Connect
 
-<p align="center">
-  <a href="https://github.com/ExVoider">
-    <img src="https://img.shields.io/badge/GitHub-ExVoider-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://t.me/xmsgxo">
-    <img src="https://img.shields.io/badge/Telegram-Contact-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <a href="https://github.com/ExVoider">
+        <img src="https://cdn.simpleicons.org/github/white" width="40">
+      </a>
+      <br>
+      <sub>GitHub</sub>
+    </td>
+    <td align="center" width="110">
+      <a href="https://t.me/yourusername">
+        <img src="https://cdn.simpleicons.org/telegram/29B6F6" width="40">
+      </a>
+      <br>
+      <sub>Telegram</sub>
+    </td>
+  </tr>
+</table>
