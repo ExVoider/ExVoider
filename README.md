@@ -49,13 +49,20 @@
 ---
 
 ## GitHub Stats
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExVoider&show_icons=true&theme=merko&layout=compact&hide_border=false" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ExVoider&show_icons=true&theme=merko&hide_border=false" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ExVoider&theme=merko&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ExVoider&theme=merko&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ExVoider&theme=dark&hide_border=true&ring=F59E0B&fire=DC2626&currStreakNum=FACC15&sideNums=F59E0B&dates=E5E7EB" />
+  <img src="https://streak-stats.demolab.com?user=ExVoider&theme=merko&hide_border=false&ring=F59E0B&fire=DC2626&currStreakNum=FACC15&sideNums=F59E0B&dates=E5E7EB" />
 </p>
 
 ---
