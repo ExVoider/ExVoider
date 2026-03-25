@@ -82,9 +82,9 @@
         <img src="https://cdn.simpleicons.org/telegram/29B6F6" width="40">
       </a>
       <br>
-
+    
 ---
-
+<table align="center">
 [![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
       <sub>Telegram</sub>
     </td>
