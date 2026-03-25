@@ -82,4 +82,15 @@
         <img src="https://cdn.simpleicons.org/telegram/29B6F6" width="40">
       </a>
       <br>
-    
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <sub>Powered by</sub><br><br>
+  <a href="https://dartnode.com" title="Powered by DartNode - Free VPS for Open Source">
+    <img src="https://dartnode.com/branding/DN-Open-Source-sm.png" alt="Powered by DartNode" />
+  </a>
+</div>
