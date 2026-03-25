@@ -64,7 +64,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ExVoider&theme=merko&hide_border=false&ring=F59E0B&fire=DC2626&currStreakNum=FACC15&sideNums=F59E0B&dates=E5E7EB" />
 </p>
-
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 ---
 ## Connect
 
@@ -83,10 +83,3 @@
       </a>
       <br>
     
----
-<table align="center">
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
-      <sub>Telegram</sub>
-    </td>
-  </tr>
-</table>
