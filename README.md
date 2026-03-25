@@ -89,8 +89,7 @@
 ---
 
 <div align="center">
-  <sub>Powered by</sub><br><br>
-  <a href="https://dartnode.com" title="Powered by DartNode - Free VPS for Open Source">
-    <img src="https://dartnode.com/branding/DN-Open-Source-sm.png" alt="Powered by DartNode" />
+  <a href="https://dartnode.com">
+    <img src="./assets/white_color_full.png" width="160" />
   </a>
 </div>
