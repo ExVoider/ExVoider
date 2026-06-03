@@ -86,10 +86,3 @@
   </tr>
 </table>
 
----
-
-<div align="center">
-  <a href="https://dartnode.com">
-    <img src="./assets/white_color_full.png" width="160" />
-  </a>
-</div>
